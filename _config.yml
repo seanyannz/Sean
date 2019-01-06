@@ -10,4 +10,4 @@ baseurl: "/freelancer-theme"
 markdown: kramdown
 permalink: pretty
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
